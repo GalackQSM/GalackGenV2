@@ -8,7 +8,7 @@ Voici un tous nouveau bot Discord générateur de compte
 * `*change [cooldown, prefix] [choix]` - Changer le préfix ou le temps de recharge (option) en une valeur, pour le temps de recharge rappelez-vous que la valeur doit être en ms
 * `*botinfo` - Avoir les Informations sur le bot
 
-**Capture d'écran:**
+* **Capture d'écran:**
 <img src="https://i.imgur.com/mDUzTJj.png"/>
 <img src="https://i.imgur.com/u8WYTSc.png"/>
 <img src="https://i.imgur.com/dCqCVLc.png"/>
