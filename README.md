@@ -9,20 +9,13 @@ Voici un tous nouveau bot Discord générateur de compte
 * `*botinfo` - Avoir les Informations sur le bot
 
 **Capture d'écran:**
-* Commande help:
-![Help](https://i.imgur.com/wL8OD4M.png)
-* Commande gen:
-![Gen](https://i.imgur.com/sedv08q.png)
-* Commande stock:
-![Stock](https://i.imgur.com/uAXwXmI.png)
-* Commande check:
-![Check](https://i.imgur.com/xba5TDG.png)
-* Commande add:
-![Add](https://i.imgur.com/dCqCVLc.png)
-* Commande change:
-![Change](https://i.imgur.com/u8WYTSc.png)
-* Commande botinfo:
-![Botinfo](https://i.imgur.com/mDUzTJj.png)
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/mDUzTJj.png"/>
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/u8WYTSc.png"/>
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/dCqCVLc.png"/>
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/xba5TDG.png"/>
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/uAXwXmI.png"/>
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/sedv08q.png"/>
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/wL8OD4M.png"/>
 
 * Si vous voulez payer pour un autre moyen de paiement ajouter moi sur Discord: **GalackQSM#0895** ou mon discord https://discord.gg/yvgAHRr9ue
 * Prix de la source actuellement est de **15€** **Paypal** ou **Paysafecard**
