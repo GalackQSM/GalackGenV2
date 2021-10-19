@@ -17,5 +17,4 @@ Voici un tous nouveau bot Discord générateur de compte
 <img src="https://i.imgur.com/sedv08q.png"/>
 <img src="https://i.imgur.com/wL8OD4M.png"/>
 
-* Si vous voulez payer pour un autre moyen de paiement ajouter moi sur Discord: **GalackQSM#0895** ou mon discord https://discord.gg/yvgAHRr9ue
-* Prix de la source actuellement est de **15€** **Paypal** ou **Paysafecard**
+* Téléchargement: https://gameandcrack.com/threads/bot-discord-galackgenv2.182/
