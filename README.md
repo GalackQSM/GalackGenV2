@@ -17,4 +17,4 @@ Voici un tous nouveau bot Discord générateur de compte
 <img src="https://i.imgur.com/sedv08q.png"/>
 <img src="https://i.imgur.com/wL8OD4M.png"/>
 
-* Téléchargement: https://gameandcrack.com/threads/bot-discord-galackgenv2.182/
+* Téléchargement: https://french-cracking.com/threads/bot-discord-galackgenv2.182/
